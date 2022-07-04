@@ -1,0 +1,6 @@
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\sarvesh\Documents\Unit test\DemoLibrary\obj\Debug\DemoLibrary.pdb
